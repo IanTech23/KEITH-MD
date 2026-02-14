@@ -23,11 +23,4 @@
  
    ## 🗿
 - Updates will be synced remotically .
-### Thanks To
 
-<img src="https://github.com/mauricegift.png" width="180">
-
-> **Maurice Gift** - for stable baileys and the founder of gifted-baileys 
-
-[![GitHub Profile](https://img.shields.io/badge/👤_GitHub_Profile-000?logo=github)](https://github.com/mauricegift)
-[![Library Docs](https://img.shields.io/badge/📚_Baileys_Docs-25D366?logo=whatsapp)](https://baileys.giftedtech.co.ke)
